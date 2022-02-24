@@ -1,0 +1,10 @@
+{
+  "name": "gemuesekiste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jsdom": "^18.0.0"
+  }
+}
